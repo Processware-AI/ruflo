@@ -5,7 +5,8 @@
   "env": {
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1",
     "CLAUDE_FLOW_V3_ENABLED": "true",
-    "CLAUDE_FLOW_HOOKS_ENABLED": "true"
+    "CLAUDE_FLOW_HOOKS_ENABLED": "true",
+    "CLAUDE_CODE_ENABLE_FUNCTION_HOOKS": "1"
   },
   "permissions": {
     "allow": [
@@ -280,5 +281,13 @@
   },
   "enabledMcpjsonServers": [
     "claude-flow"
-  ]
+  ],
+  "enabledPlugins": {
+    "ruflo-mods@ruflo": true,
+    "ruflo-swarm@ruflo": true,
+    "ruflo-console@ruflo": true
+  },
+  "extraKnownMarketplaces": {
+    "ruflo": { "source": { "source": "github", "repo": "ruvnet/ruflo" } }
+  }
 }

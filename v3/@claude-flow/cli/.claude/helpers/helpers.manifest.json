@@ -1,6 +1,6 @@
 {
   "manifest": {
-    "version": "3.50.0",
+    "version": "3.51.0",
     "files": {
       "auto-memory-hook.mjs": "c8d218526a3c34034c2a69de23f507f0eb0f70d59c16426a8edc849e6ac22529",
       "hook-handler.cjs": "8876b17d55bf88acef09e9fe43ba8c1e003c9cce0763294ef85dede40c473a18",
@@ -9,6 +9,6 @@
       "router.cjs": "16648b3c0d73b6681ac2d8d13def6a68286c57f5a11004de5b19a0fa088c833d"
     }
   },
-  "signature": "TtVDRnLowwMxcsM9ASK5rzpgM8wHsHcSojmOLyzEJ4jPjZcV6H3EHWqaL+Rr1Lu7Qauw6JvPT4lLR0zYSTUYBw==",
+  "signature": "TJn/TF4exL8ek6GuvGIxZew+v14aZG9rixlu+91nWkPdgsYP5PhPDUGIXi4/Axyw1aYAEeFaE2aQyDlbPJCvBQ==",
   "algorithm": "ed25519"
 }
